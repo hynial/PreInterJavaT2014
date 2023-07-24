@@ -1,8 +1,9 @@
-package com.lainyh.playground.leetcode;
+package com.lainyh.playground.leetcode.merge1;
 
 import java.util.*;
 
 /**
+ * https://leetcode.cn/problems/count-of-smaller-numbers-after-self/
  * 正统解法带 # 号
  * 计算右侧小于当前元素的个数
  *
